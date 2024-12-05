@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_tickets"
+        android:icon="@drawable/my_tickets"
+        android:title="My Tickets" />
+
+    <item
+        android:id="@+id/navigation_buses"
+        android:icon="@drawable/baseline_directions_bus_24"
+        android:title="Buses" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile" />
+
+</menu>
